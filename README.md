@@ -1,0 +1,2 @@
+# Stone
+ Juego Individual
